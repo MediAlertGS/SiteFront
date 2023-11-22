@@ -71,11 +71,11 @@ export default function Home() {
         <p id="txtTitulo">O assistente da sua saúde</p>
       </div>
       <div id="solucao">
-        <p id="txtSolucao">O MediAlert, um assistente inteligente 
-        inovador, transforma o tratamento médico ao simplificar a 
-        administração de medicamentos. Com lembretes precisos, ele 
-        assegura a adesão correta ao regime de medicação, crucial 
-        para a eficácia do tratamento.</p>
+        <p id="txtSolucao">Além disso, o MediAlert oferece recursos 
+        adicionais para segurança do usuário, incluindo um botão de 
+        emergência e um sensor de queda. Essas funcionalidades garantem 
+        uma resposta rápida em situações críticas, mantendo os 
+        cuidadores constantemente atualizados e tranquilos.</p>
       </div>
       <div id="vantagens">
         <div id="vantagem1" className="vantagem">
