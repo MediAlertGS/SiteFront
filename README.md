@@ -1,6 +1,6 @@
 # MediAlert
 
-Este é o repositório do projeto [MediAlert]. Aqui você encontrará todas as instruções necessárias para acessar e executar o projeto.
+Este é o repositório do projeto [MediAlert] Aqui você encontrará todas as instruções necessárias para acessar e executar o projeto.
 
 ## Integrantes da Equipe
 
